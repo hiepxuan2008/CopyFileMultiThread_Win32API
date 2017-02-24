@@ -1,4 +1,7 @@
 # CopyFileMultiThread_Win32API
 
-#Demo
-[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi_webp/heP2PvMezx0/hqdefault.webp)](https://www.youtube.com/watch?v=heP2PvMezx0)
+# ScreenShot:
+![Screenshot](https://raw.githubusercontent.com/hiepxuan2008/CopyFileMultiThread_Win32API/master/Screenshot.png)
+
+# Demo
+https://www.youtube.com/watch?v=heP2PvMezx0
